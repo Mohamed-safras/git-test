@@ -1,3 +1,5 @@
-function sayHi(){
-	console.log("hello world")
+function sayHi(name){
+	console.log(`hi ${name}`)
 }
+
+sayHi("safras")
